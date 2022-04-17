@@ -1,0 +1,55 @@
+.bbox{
+    font-weight: bold;
+    border: 3px;
+    border-color: black;
+    padding; 23px;
+    text-align: center;
+    
+}
+
+.cent{
+    text-align: center;
+    padding-bottom: 100;
+    background-color: lightsteelblue;
+    text-decoration: underline;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.header{
+    background-position: center;
+    position: fixed;
+    background: white;
+    text-align: center;
+    width: 100%;
+    border: 2px;
+    border-style: solid;
+    
+    
+}
+.padtop{
+    padding-top: 60px;
+
+    
+}
+
+.padbot{
+    padding-bottom: 150px;
+
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    color: black;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    background-position: center;
+
+    
+}

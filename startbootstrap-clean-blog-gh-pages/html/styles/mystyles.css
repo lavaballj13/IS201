@@ -1,0 +1,34 @@
+.title{
+    text-decoration: underline;
+    font-weight: 99999;
+    font-size: 50px;
+    text-align: center;
+}
+
+.italics{
+    font-style: italic;
+    
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+
+.gra{
+    color: gray;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+li{
+    padding-left: 30px;
+    
+}
